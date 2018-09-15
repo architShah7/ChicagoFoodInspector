@@ -1,0 +1,30 @@
+Filtering:
+	On the left hand side of the interface, click filter and enter 
+	the desired property that you would like to filter through. 
+	It is possible to add/filters by clicking the +/- symbol 
+	located on the top left of the interface. The information in 
+	a single filter are "and" conditions and add multiple filters 
+	are "or" conditions.
+
+Sorting:
+	Click on the table headers to sort the facilities by the 
+	corresponding property
+
+Find:
+	You must select a past inspection to use this feature.
+	The source point will be this restaurant.
+	By clicking the 'find closest' button on the bottom left, 
+	you can input a number for which the program will find 
+	that amount of closest facilities from the source point
+
+Navigation:
+	Users can navigate though the table by scrolling up/down 
+	as well as expand the table by clicking the arrow beside
+	the facility name to view past inspections.
+	You can double click a past inspection to view the
+	violations in more detail in a dialog.
+
+Score:
+	The score column rates the restaurant based on its risk, 
+	inspection result as well as inspection violations. The
+	lower the score, the safer the restaurant.
